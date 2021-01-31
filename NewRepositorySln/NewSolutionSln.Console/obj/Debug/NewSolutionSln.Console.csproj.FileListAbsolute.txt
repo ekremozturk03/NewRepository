@@ -1,0 +1,7 @@
+C:\Projects\Github\NewRepository\NewRepositorySln\NewSolutionSln.Console\bin\Debug\NewSolutionSln.Console.exe.config
+C:\Projects\Github\NewRepository\NewRepositorySln\NewSolutionSln.Console\bin\Debug\NewSolutionSln.Console.exe
+C:\Projects\Github\NewRepository\NewRepositorySln\NewSolutionSln.Console\bin\Debug\NewSolutionSln.Console.pdb
+C:\Projects\Github\NewRepository\NewRepositorySln\NewSolutionSln.Console\obj\Debug\NewSolutionSln.Console.csprojAssemblyReference.cache
+C:\Projects\Github\NewRepository\NewRepositorySln\NewSolutionSln.Console\obj\Debug\NewSolutionSln.Console.csproj.CoreCompileInputs.cache
+C:\Projects\Github\NewRepository\NewRepositorySln\NewSolutionSln.Console\obj\Debug\NewSolutionSln.Console.exe
+C:\Projects\Github\NewRepository\NewRepositorySln\NewSolutionSln.Console\obj\Debug\NewSolutionSln.Console.pdb
